@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Year",
+            "request": "launch",
+            "mainClass": "Year",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
+            "name": "Larger",
+            "request": "launch",
+            "mainClass": "Larger",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
+            "name": "Num",
+            "request": "launch",
+            "mainClass": "Num",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
+            "name": "Even",
+            "request": "launch",
+            "mainClass": "Even",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
             "name": "hello",
             "request": "launch",
             "mainClass": "hello",

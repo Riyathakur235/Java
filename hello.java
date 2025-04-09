@@ -1,10 +1,9 @@
 public class hello {
     public static void main(String[] args) {
-        int a=10;
-        int b=20;
-         a =(a+b)-(b=a);
-        System.out.println(a); 
-        System.out.println(b);
-        
-    }
+     boolean a=true;
+     if(a==true) {
+        System.out.println("hello");
+     }  else
+     System.out.println("hii");
+    } 
 }
