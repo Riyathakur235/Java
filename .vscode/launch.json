@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Case",
+            "request": "launch",
+            "mainClass": "Case",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
+            "name": "Age",
+            "request": "launch",
+            "mainClass": "Age",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
             "name": "Year",
             "request": "launch",
             "mainClass": "Year",
