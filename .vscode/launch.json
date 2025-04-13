@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IsPrime",
+            "request": "launch",
+            "mainClass": "IsPrime",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
             "name": "Factorial",
             "request": "launch",
             "mainClass": "Factorial",
