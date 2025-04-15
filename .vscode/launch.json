@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Pattern2",
+            "request": "launch",
+            "mainClass": "Pattern2",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
             "name": "IsPrime",
             "request": "launch",
             "mainClass": "IsPrime",
