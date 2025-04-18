@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Maximum",
+            "request": "launch",
+            "mainClass": "Maximum",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
             "name": "EvenOddCount",
             "request": "launch",
             "mainClass": "EvenOddCount",
