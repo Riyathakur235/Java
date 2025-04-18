@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EvenOddCount",
+            "request": "launch",
+            "mainClass": "EvenOddCount",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
+            "name": "Merged",
+            "request": "launch",
+            "mainClass": "Merged",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
+            "name": "Compare",
+            "request": "launch",
+            "mainClass": "Compare",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
+            "name": "SumCount",
+            "request": "launch",
+            "mainClass": "SumCount",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
             "name": "Array",
             "request": "launch",
             "mainClass": "Array",
