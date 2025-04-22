@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Frequncy",
+            "request": "launch",
+            "mainClass": "Frequncy",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
+            "name": "Character",
+            "request": "launch",
+            "mainClass": "Character",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
+            "name": "Charat",
+            "request": "launch",
+            "mainClass": "Charat",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
+            "name": "Convert",
+            "request": "launch",
+            "mainClass": "Convert",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
             "name": "Maximum",
             "request": "launch",
             "mainClass": "Maximum",
