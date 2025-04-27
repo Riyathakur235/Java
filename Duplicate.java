@@ -21,15 +21,6 @@ public class Duplicate {
                 //}
             //}
         //}
-       String str="helololl";
-       char[]ch=str.toCharArray();
-       for(int i=0;i<str.length();i++){
-        for(int j=i+2;j<ch.length;j++){
-          if(ch[i]==ch[j]){
-            System.out.println(ch[i]);
-            return;
-          }  
-        }
-       }
+       
     }
 }

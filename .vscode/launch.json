@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Missing",
+            "request": "launch",
+            "mainClass": "Missing",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
+            "name": "Missingno",
+            "request": "launch",
+            "mainClass": "Missingno",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
+            "name": "Variable",
+            "request": "launch",
+            "mainClass": "Variable",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
+            "name": "Capacity",
+            "request": "launch",
+            "mainClass": "Capacity",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
             "name": "Duplicate",
             "request": "launch",
             "mainClass": "Duplicate",
