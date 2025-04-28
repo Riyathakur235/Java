@@ -25,7 +25,7 @@ public class Loop {
    System.out.println(count);
    }
  public static void main(String[] args) {
-   sum(6,3);
+   sum(45,4);
  }  
 }
 
