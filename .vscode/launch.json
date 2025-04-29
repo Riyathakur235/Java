@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BankAccount",
+            "request": "launch",
+            "mainClass": "BankAccount",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
+            "name": "Class",
+            "request": "launch",
+            "mainClass": "Class",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
             "name": "BubbleS",
             "request": "launch",
             "mainClass": "BubbleS",

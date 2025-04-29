@@ -14,7 +14,7 @@ public class BubbleS {
         }
     }
     public static void main(String[] args) {
-        String[] str={"B","A","C"};
+        String[] str={"m","a","b"};
        // System.out.println(str[0].charAt(0));
         Sort(str);
     }
