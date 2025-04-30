@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Factor",
+            "request": "launch",
+            "mainClass": "Factor",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
             "name": "BankAccount",
             "request": "launch",
             "mainClass": "BankAccount",

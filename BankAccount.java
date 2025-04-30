@@ -21,6 +21,7 @@ class Bank{
 }
 public class BankAccount {
     public static void main(String[] args) {
+      System.out.println("Enter a number");
         Bank obj=new Bank();
         obj.Account();
     }
