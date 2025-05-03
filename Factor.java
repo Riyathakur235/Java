@@ -1,5 +1,4 @@
 
-
 public class Factor {
     public static void find(int n) {
         for(int i=1;i<=n;i++){

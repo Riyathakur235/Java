@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Perfect",
+            "request": "launch",
+            "mainClass": "Perfect",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
             "name": "SumFactor",
             "request": "launch",
             "mainClass": "SumFactor",
