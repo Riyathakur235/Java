@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HCF",
+            "request": "launch",
+            "mainClass": "HCF",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
+            "name": "LCM",
+            "request": "launch",
+            "mainClass": "LCM",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
             "name": "Armstrong",
             "request": "launch",
             "mainClass": "Armstrong",
