@@ -9,8 +9,7 @@ public class HCF {
        }  
     public static void main(String[] args) {
         System.out.print("HCF is"+" ");
-      two(12,15);
-      
+     two(12,15);
     }
 
 }

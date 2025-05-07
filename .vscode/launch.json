@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Inheritence",
+            "request": "launch",
+            "mainClass": "Inheritence",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
             "name": "HCF",
             "request": "launch",
             "mainClass": "HCF",
