@@ -8,16 +8,20 @@ class Dog extends Animal{
         System.out.println("barkkkk");
     }
 }
-class Puppy extends Dog{
-    void cute(){
-        System.out.println("cutiesssss");
-    }
+//class Puppy extends Dog{
+  //  void cute(){
+    //    System.out.println("cutiesssss");
+    //}
+//}
+class Cat extends Animal {
+   void sleep(){
+    System.out.println("sleeppp");
+   }      
 }
 public class Inheritence {
   public static void main(String[] args) {
-    Puppy obj=new Puppy();
-    obj.bark();
-    obj.eat();
-    obj.cute();
+    //Puppy obj=new Puppy();
+     Dog obj=new Dog();
+     obj.bark();
   }  
 }

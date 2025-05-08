@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Abstract",
+            "request": "launch",
+            "mainClass": "Abstract",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
+            "name": "Methodoverload",
+            "request": "launch",
+            "mainClass": "Methodoverload",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
+            "name": "MethodoverWrite",
+            "request": "launch",
+            "mainClass": "MethodoverWrite",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
             "name": "Inheritence",
             "request": "launch",
             "mainClass": "Inheritence",
