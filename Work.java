@@ -8,7 +8,7 @@ public class Work {
         arr.add("A");
         arr.add("r");
         arr.add("m");
-        Collection.sort(arr);
+       Collection.sort(arr);
         System.out.println(arr);
         // arr.add(0,"jain");
         // System.out.println(arr.get(2));
