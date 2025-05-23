@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Work",
+            "request": "launch",
+            "mainClass": "Work",
+            "projectName": ".vscode_51a38cef"
+        },
+        {
+            "type": "java",
             "name": "Tryblock",
             "request": "launch",
             "mainClass": "Tryblock",
