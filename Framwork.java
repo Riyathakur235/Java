@@ -1,5 +1,7 @@
-import java.util.LinkedList;
-import java.util.TreeSet;
+
+//import java.util.HashMap;/\
+
+import java.util.HashMap;
 
 public class Framwork {
    public static void main(String[] args) {
@@ -8,11 +10,17 @@ public class Framwork {
    //  System.out.println(arr.contains(5));
    //  long end =System.nanoTime();
    //  System.out.println(end-start);
-   TreeSet<String> set=new TreeSet<>();
-   set.add("C");
-   set.add("B");
-   set.add("C");
-   set.add("a");
-   System.out.println(set);
+   // TreeSet<String> set=new TreeSet<>();
+   // set.add("C");
+   // set.add("B");
+   // set.add("C");
+   // set.add("a");
+   // System.out.println(set);
+   HashMap<String,Integer>map=new HashMap<>();
+   // map.put("Id1", 1);
+   // map.put("Id2",2 );
+   // map.put("id3", 3);
+   // System.out.println("Id0");
+   map.put(1, 1); 
    }
 }
