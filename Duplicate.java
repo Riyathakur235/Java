@@ -9,6 +9,8 @@ public class Duplicate {
             //}
         //}
         //System.out.println(newstr +" ");
+
+        
         //first repeat 
        // String str="helllooo";
         //char[]ch=str.toCharArray();
