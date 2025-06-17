@@ -24,4 +24,4 @@ public class Inheritence {
      Dog obj=new Dog();
      obj.bark();
   }  
-}
+}Q
