@@ -11,20 +11,20 @@ public class Calculator {
         int c = in.next().charAt(0);
         switch (c) {
             case '+':
-            System.err.println(a+b);
+            System.out.println(a+b);
                 break;
                 case '-':
-                System.err.println(a-b);
+                System.out.println(a-b);
                 break;
                 case'*':
-                System.err.println(a*b);
+                System.out.println(a*b);
                 break;
                 case'/':
-                System.err.println(a/b);
+                System.out.println(a/b);
                 break;
         
             default:
-            System.err.println("o");
+            System.out.println("o");
                 break;
         }
 
