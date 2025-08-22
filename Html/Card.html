@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box{
+            height: 200px;
+            width: 400px;
+            background:linear-gradient(red,black ,blue)
+        }
+        .box2{
+            height: 200px;
+            width: 400px;
+            background: repeating-linear-gradient(
+                45deg,
+                red 0px,
+                red 10px,
+                yellow 10px,
+                yellow 20px
+            )
+        }
+        .box3{
+            height: 200px;
+            width: 400px;
+            /* background: radial-gradient(ellipse at center,pink,purple,violet); */
+            background: radial-gradient(circle at top left,blue,green,purple);       
+        }
+        .box4{
+             height: 200px;
+             width: 400px;
+             background: conic-gradient(red,yellow,green,blue)
+        }
+        .box5{
+            height: 200px;
+            width: 400px;
+            /* background: conic-gradient(from 60deg,red,orange,yellow,pink,blue) */
+            background:repeating-conic-gradient(red 0deg 20deg,yellow 20deg 40deg)
+        }
+    </style>
+</head>
+<body>
+    <div class="box"></div>
+    <div class="box2"></div>
+    <div class="box3"></div>
+    <div class="box4"></div>
+    <div class="box5"></div>
+</body>
+</html>
