@@ -13,7 +13,8 @@ public class Bits {
     // }
 
     //Set bit operation
-    // i
+    //  int newwNumber=bitMask|n;
+    //  System.out.println(newwNumber);
     
     //Clear bit operation
     // int notBitMask=~(bitMask);
