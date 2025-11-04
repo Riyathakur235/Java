@@ -1,13 +1,14 @@
-public static MoveX{
+public class MoveX {
+
     public static void moveAllx(String str,int idx, int count ,String newString){
-        if(idx=str.length()){
+        if(idx==str.length()){
             for(int i=0;i<count;i++){
                 newString+="x";
             }
             System.out.println(newString);
-            return
+            return;
         }
-        char currChar = str.CharAt(idx);
+        char currChar = str.charAt(idx);
         if(currChar=="x"){
             count++;
             moveAllx(str,idx+1,count,newString);
